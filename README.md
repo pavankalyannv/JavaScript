@@ -77,3 +77,64 @@ title (a string), author (a string), and alreadyRead (a boolean indicating if yo
   string), duration (a number), and stars (an array of strings).
   • Create a function to print out the movie information like so: "Puff the Magic Dragon
   lasts for 30 minutes. Stars: Puff, Jackie, Living Sneezes."
+  
+  11. Write a JavaScript program that stores basic information like your Name, Company Name
+      and Designation in variable and print the same on console as “My Name is {name} I work in
+      {company name}​ and my Designation is {designation}​”.
+  12. Create a Javascript code and Define the following variables in that script.
+      a. Define a String variable call yourName. Put your name in the variable.
+      b. Define a Numeric variable called luckyNumber with a value of 37.
+      c. Define a Numeric variable called salary with a value of 123.45.
+      d. Define a variable called ownACar. Assign it a boolean value of true.
+      e. Define a variable called interest. Do not assign it a value.
+      
+13. Write a JavaScript program to display the current day and time in the following format
+  mm/dd/yyyy?
+  
+14. Write a program that prints the first letter of the string in capital and remaining letters in small.
+
+15. Write a JavaScript function that accepts two arguments, a string and a letter and the function
+    will count the number of occurrences of the specified letter within the string.
+    Sample arguments : 'gmail.com', 'm'
+    Expected output : 2
+
+16. Write a JavaScript program to find the largest of 5 numbers using conditional statement .
+
+17. Write a JavaScript program to find the life stage of a person based on to the age group. The
+    age group classification are as follows
+          0 - 1 Infant
+          2 - 3 Toddler
+          4 - 5 PreSchooler
+          6 - 12 Primary School Boy
+          13 - 19 Adolesent
+          20 - 35 Matured Person
+          36 - 55 Adult
+          56 + Senior Citizen
+
+18. Write a JavaScript program which iterates from 1 to 50 and counts the numbers divisible by 3.
+
+19. Write a javascript code to perform Fibonacci series.
+
+20. Write a javascript code to find the factorial of numbers from 11 to 20.
+
+21. Write a JavaScript program to check whether the given number is palindrome or not .
+    Input – 12321
+    Output – Palindrome.
+    Input – 2345
+    Output – Not palindrome.
+
+22. Write a JavaScript program which compute, the average marks of the following students
+  Then, this average is used to determine the corresponding grade?
+     Student Name     Marks
+          David     80
+          Vinoth    77
+          Divya     88
+          Ishitha   95
+          Thomas    68
+          
+        Range      Grade
+          60      F
+          70      D
+          80      C
+          90      B
+          100     A
