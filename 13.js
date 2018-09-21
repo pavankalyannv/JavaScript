@@ -1,0 +1,5 @@
+var d=new Date()
+var day=d.getDate()
+var year=d.getFullYear()
+var month=d.getMonth()
+console.log(month+"-"+day+"-"+year)
